@@ -17,8 +17,8 @@
 #include <WiFi.h>
 #include "ESPAsyncWebServer.h"
 // Ustawienie połączenia
-const char* ssid = "UPC2892648";
-const char* password = "k4arHpsacw7e";
+const char* ssid = "******";
+const char* password = "******";
 //Ustawienie komunikacji SPI
 #define BME_SCK 18
 #define BME_MISO 19
